@@ -1,6 +1,6 @@
-<!-- 🔥 Banner Principal (Mude a URL se quiser outra imagem) -->
+<!-- 🔥 Banner Principal Animado (Risk of Rain 1 Vibe) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JohnnyIver/johnnyiver.github.io/main/banner.png" alt="Risk of Rain 2 Banner" width="100%" />
+  <img src="https://static.wikia.nocookie.net/riskofrain_gamepedia/images/f/f9/Commando_Idle.gif" alt="Risk of Rain Animated Banner" width="200" />
 </div>
 
 <br>
