@@ -1,6 +1,6 @@
 <!-- 🔥 Banner Principal (Mude a URL se quiser outra imagem) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/JohnnyIver/JohnnyIver/main/banner.png" alt="Risk of Rain 2 Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/JohnnyIver/johnnyiver.github.io/main/banner.png" alt="Risk of Rain 2 Banner" width="100%" />
 </div>
 
 <br>
