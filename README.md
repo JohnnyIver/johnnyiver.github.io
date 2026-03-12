@@ -1,7 +1,9 @@
 # Vinícius Costa
 ### Infrastructure | Monitoring | Linux | Automation
 
-> *"Surviving the storm of production systems."* 📡
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Surviving+the+storm+of+production+systems.;Every+system+eventually+becomes+a+boss+fight.;%22Llovi%C3%B3%2C+con+lentitud+poderosa.%22" alt="Typing SVG" />
+</div>
 
 ---
 
