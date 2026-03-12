@@ -6,7 +6,7 @@
 ---
 
 ### 📡 About Me
-Conectando infraestrutura, observabilidade e automação. Especialista em sistemas Linux e arquiteturas de monitoramento, focado em garantir que cada sistema opere com performance máxima e downtime zero. Transformando dados brutos em inteligência operacional.
+Profissional de tecnologia com sólida experiência em Telecomunicações, Suporte Técnico e Infraestrutura de TI. Especialista em Observabilidade e SRE, com foco em monitoramento (Zabbix/Grafana), segurança de sistemas (Wazuh/CrowdStrike) e administração Linux. Comprometido com a automação de processos e a construção de infraestruturas resilientes e seguras, sempre transformando dados em inteligência operacional.
 
 <br>
 
@@ -15,9 +15,53 @@ Abaixo estão as ferramentas e tecnologias que compõem minha stack técnica, or
 
 | Primary (Core) | Secondary (Infra) | Utility (Scripts) | Special (Focus) |
 | :--- | :--- | :--- | :--- |
-| **Zabbix** | **Linux** | **Bash / Shell** | **Troubleshooting** |
-| **Grafana** | **Networking** | **Python** | **Incident Response** |
-| **Observability** | **Docker** | **PowerShell** | **AIOps Integration** |
+| **Zabbix** | **Linux Systems** | **Bash / Shell** | **Troubleshooting** |
+| **Wazuh** | **TCP/IP Networks** | **Python** | **SRE / DevOps** |
+| **Observability** | **Fibre Optics** | **PowerShell** | **Vulnerability Mgmt** |
+
+<br>
+
+### 📜 System Logs: Certifications
+*Marcos de conhecimento e badges de sistema desbloqueados:*
+
+<details>
+<summary><b>The Linux Foundation</b></summary>
+<ul>
+  <li>Introduction to DevOps and Site Reliability Engineering (LFS162)</li>
+  <li>Introduction to Linux (LFS101)</li>
+  <li>Cybersecurity Essentials (LFC108)</li>
+</ul>
+</details>
+
+<details>
+<summary><b>Cybersecurity & Monitoring</b></summary>
+<ul>
+  <li>Wazuh Expert: Monitoramento de Ataques Cibernéticos (Greenn)</li>
+  <li>Zabbix 7.0 Expert: Application and Network Monitoring (Udemy)</li>
+  <li>Cybersecurity Career Starter Certification (Hack & Fix)</li>
+  <li>Certified Phishing Prevention Specialist (Hack & Fix)</li>
+</ul>
+</details>
+
+<details>
+<summary><b>Network & Infrastructure</b></summary>
+<ul>
+  <li>RUCKUS Accredited SmartZone Administrator (RASZA)</li>
+  <li>RUCKUS ICX Implementer Accreditation (RICXI)</li>
+  <li>RUCKUS Wireless Fundamentals (RWF-100)</li>
+  <li>SSL/TLS & Account Management: IAM (Cloudflare)</li>
+  <li>Redes TCP/IP & Fibra Óptica do Zero (Fiberschool)</li>
+</ul>
+</details>
+
+<details>
+<summary><b>Cloud & Specialized Training</b></summary>
+<ul>
+  <li>DPN Technical Specialist & Demo Certification (Datadog)</li>
+  <li>Technical & Support Training (Vicarius)</li>
+  <li>Administrando Banco De Dados (Fundação Bradesco)</li>
+</ul>
+</details>
 
 <br>
 
@@ -40,9 +84,8 @@ Objetivos técnicos e marcos alcançados na infraestrutura:
 
 *   [x] **Monitoring Stack Deployment** (Zabbix + Grafana Enterprise)
 *   [x] **Infrastructure Observability** (Full-stack telemetry)
-*   [x] **Automation Hub** (Internal workflow optimization)
+*   [x] **Cybersecurity Hardening** (Wazuh & Endpoint Security)
 *   [ ] **Kubernetes Lab** (Cluster orchestration)
-*   [ ] **Security Monitoring** (Threat detection & response)
 *   [ ] **Automated Incident Response** (Self-healing systems)
 
 <br>
@@ -50,6 +93,6 @@ Objetivos técnicos e marcos alcançados na infraestrutura:
 ---
 
 <div align="center">
-  <sub>Artifacts Unlocked: Monitoring | Automation | Linux </sub><br>
+  <sub>Artifacts Unlocked: Monitoring | Automation | Linux | Security </sub><br>
   <sub><i>Surviving since stage 1...</i></sub>
 </div>
