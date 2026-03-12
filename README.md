@@ -6,7 +6,7 @@
 ---
 
 ### 📡 About Me
-Profissional de tecnologia com sólida experiência em Telecomunicações, Suporte Técnico e Infraestrutura de TI. Especialista em Observabilidade e SRE, com foco em monitoramento (Zabbix/Grafana), segurança de sistemas (Wazuh/CrowdStrike) e administração Linux. Comprometido com a automação de processos e a construção de infraestruturas resilientes e seguras, sempre transformando dados em inteligência operacional.
+Profissional de tecnologia com sólida experiência em Telecomunicações, Suporte Técnico e Infraestrutura de TI. Com vasta experiência em Observabilidade e SRE, focado em monitoramento (Zabbix/Grafana), segurança de sistemas (Wazuh/CrowdStrike) e administração Linux. Comprometido com a automação de processos e a construção de infraestruturas resilientes e seguras, sempre transformando dados em inteligência operacional.
 
 <br>
 
