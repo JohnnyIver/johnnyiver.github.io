@@ -83,5 +83,5 @@ Métricas de atividade e implantação capturadas diretamente do núcleo de dese
 
 <div align="center">
   <sub>Artifacts Unlocked: Monitoring | Automation | Linux | Security </sub><br>
-  <sub><i>Surviving since stage 1...</i></sub>
+  <sub><i>"Llovió, con lentitud poderosa."</i> ⛈️</sub>
 </div>
