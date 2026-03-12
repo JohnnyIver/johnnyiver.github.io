@@ -77,18 +77,7 @@ Métricas de atividade e implantação capturadas diretamente do núcleo de dese
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnnyIver&bg_color=0d1117&color=58a6ff&line=58a6ff&point=FFFFFF&area_color=58a6ff&area=true&hide_border=true" alt="Deployment Activity" width="100%">
 </div>
 
-<br>
 
-### 🏆 Challenges Completed
-Objetivos técnicos e marcos alcançados na infraestrutura:
-
-*   [x] **Monitoring Stack Deployment** (Zabbix + Grafana Enterprise)
-*   [x] **Infrastructure Observability** (Full-stack telemetry)
-*   [x] **Cybersecurity Hardening** (Wazuh & Endpoint Security)
-*   [ ] **Kubernetes Lab** (Cluster orchestration)
-*   [ ] **Automated Incident Response** (Self-healing systems)
-
-<br>
 
 ---
 
